@@ -1,4 +1,4 @@
-# ml2022-23
+# ml2022-23; Bartosz Czekaj Solutions
 Materials for the 2022/23 edition of Machine Learning classes.
 
 ## Grades
